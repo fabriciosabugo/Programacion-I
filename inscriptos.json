@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Martin Gomez",
+        "categoria": "5ª"
+    },
+    {
+        "nombre": "Lucas Peralta",
+        "categoria": "5ª"
+    },
+    {
+        "nombre": "Sofia Ruiz",
+        "categoria": "4ª"
+    },
+    {
+        "nombre": "Diego Acosta",
+        "categoria": "6ª"
+    },
+    {
+        "nombre": "Valentina Sosa",
+        "categoria": "4ª"
+    },
+    {
+        "nombre": "Tomas Benitez",
+        "categoria": "5ª"
+    },
+    {
+        "nombre": "Camila Diaz",
+        "categoria": "6ª"
+    },
+    {
+        "nombre": "Facundo Romero",
+        "categoria": "4ª"
+    },
+    {
+        "nombre": "Julieta Molina",
+        "categoria": "6ª"
+    },
+    {
+        "nombre": "Nicolas Ortiz",
+        "categoria": "5ª"
+    },
+    {
+        "nombre": "Agustina Lopez",
+        "categoria": "4ª"
+    },
+    {
+        "nombre": "Bruno Fernandez",
+        "categoria": "6ª"
+    }
+]
