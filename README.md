@@ -70,6 +70,16 @@ A continuación se detallan los principales scripts y proyectos incluidos:
      python padeltorneo.py
      ```
 
+### Dependencias de LOGIX Analyzer
+
+El prototipo `LOGIX_ANALYZER_Prototipo_Programacion.py` requiere `numpy`. Instala
+las dependencias con el mismo intérprete que usarás para ejecutar el script:
+
+```powershell
+& 'C:\Python314\python.exe' -m pip install -r requirements.txt
+& 'C:\Python314\python.exe' .\LOGIX_ANALYZER_Prototipo_Programacion.py
+```
+
 ---
 
 ## 📌 Autor
